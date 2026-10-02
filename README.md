@@ -11,3 +11,6 @@ Lam quen voi Git va Github.
 - Git
 -GitHub
 - GitBash
+
+## Quan ly tep
+Su dung gitignore de bo qua cac tep khong can thiet.
