@@ -6,3 +6,8 @@ Respository phuc vu bai kiem tra Git.
 
 ## Muc tieu
 Lam quen voi Git va Github.
+
+## Cong cu su dung
+- Git
+-GitHub
+- GitBash
