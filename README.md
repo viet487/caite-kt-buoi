@@ -14,3 +14,6 @@ Lam quen voi Git va Github.
 
 ## Quan ly tep
 Su dung gitignore de bo qua cac tep khong can thiet.
+
+## Trang thai
+Du an da duoc khoi tao va day len GitHub.
